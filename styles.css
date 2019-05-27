@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+}
+
+#my-grid {
+	background: blue;
+	display: inline-block;
+}
+
+.col {
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+	background-color: white;
+	border-radius: 50%;
+	margin: 5px;	
+}
+
+#my-div {
+	border: solid black 2px;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+#turn-display{
+	font-size: 40px;
+}
+
+.green-hover{
+	background-color: green;
+	opacity: 0.9;
+}
+
+.red-hover{
+	background-color: red;
+	opacity: 0.9;
+}
